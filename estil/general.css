@@ -1,0 +1,13 @@
+body {
+    background-color: powderblue;
+    background-image: url('../imatges/bfg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+h1 {
+    color: rgba(0, 0, 255, 1);
+}
+
+p {
+    color:red;
+}

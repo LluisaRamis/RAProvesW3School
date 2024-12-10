@@ -1,0 +1,13 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+    background-color: rgba(169, 190, 248, 0.8);
+}
+th {
+    background-color: rgba(230, 230, 255, 0.8);
+}
