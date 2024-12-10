@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(122, 44, 118);
+    background-image: url('../imatges/kliul.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;}
+li{
+    color: white;
+}
+dl{
+    color: white;
+}
